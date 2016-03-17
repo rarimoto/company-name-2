@@ -194,8 +194,8 @@ h1 {
 
 /*section01*/
 .section01 {
-  padding-top: 30px;
-  padding-bottom: 50px;
+  padding-top: 80px;
+  padding-bottom: 90px;
   background-color: #ececec;
   border-radius: 20px;
   margin-top: 30px;
@@ -206,9 +206,7 @@ h1 {
 .section01 h2 {
   font-size: 5.950em;
   line-height: 1.1em;
-  margin: 0;
-  padding-top: 84px;
-  padding-bottom: 37px;
+  margin-bottom: 40px;
   text-align: center;
 }
 
@@ -544,6 +542,10 @@ body {
 
 .section02 h3 {
   font-size: 1.75em;
+}
+
+.section02 .col {
+  float: none;
 }
 
 .col-6 {
